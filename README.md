@@ -113,7 +113,6 @@
 ![Uploading 게시글.png…]()
 ![게시글](https://user-images.githubusercontent.com/101463273/189026760-37616a6e-4342-4d48-b13d-e1cf886f3b9a.png)
 ![게시글작성](https://user-images.githubusercontent.com/101463273/189026529-806cdb5a-2b51-40c2-973e-c21b6fc95531.png)
-![게시글수정](https://user-images.githubusercontent.com/101463273/189026523-0ed330f0-b4f8-4b1f-b6f4-5f8155c26c00.png)
 <br>
 <br>
 
@@ -154,11 +153,11 @@
   </tr>
     <tr>
     <td align="center"><b>팀장, 게시판 서비스 구현<br>레벨 화면 구현<br>DB 설계</b></td>
-    <td align="center"><b>게시판 서비스 구현<br>달성도 차트 구현<br>DB 설계</b></td>
-    <td align="center"><b>회원 관리<br>마이챌린지<br>메인화면 구현<br>DB 설계</b></td>
-    <td align="center"><b>회원 관리<br>마이챌린지<br>메인화면 구현<br>DB 설계</b></td>
-    <td align="center"><b>회원 관리<br>마이챌린지<br>메인화면 구현<br>DB 설계</b></td>
-    <td align="center"><b>게시판 서비스<br>레벨 화면 구현<br>DB 설계</b></td>
+    <td align="center"><b>백엔드 담당<br>커뮤니티 서비스 구현<br>DB 설계</b></td>
+    <td align="center"><b>회원 관리<br>마이챌린지<br>DB 설계</b></td>
+    <td align="center"><b>회원 관리<br>마이챌린지<br>DB 설계</b></td>
+    <td align="center"><b>메인화면 구현<br>DB 설계</b></td>
+    <td align="center"><b>챌린지 기능 구현<br>Front 지원<br>DB 설계</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimpizza" target='_blank'>github</a></td>
