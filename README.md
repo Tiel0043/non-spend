@@ -153,7 +153,7 @@
   </tr>
     <tr>
     <td align="center"><b>팀장, 게시판 서비스 구현<br>레벨 화면 구현<br>DB 설계</b></td>
-    <td align="center"><b>백엔드 담당<br>커뮤니티 서비스 구현<br>DB 설계</b></td>
+    <td align="center"><b>커뮤니티 서비스 구현<br>DB 설계</b></td>
     <td align="center"><b>회원 관리<br>마이챌린지<br>DB 설계</b></td>
     <td align="center"><b>회원 관리<br>마이챌린지<br>DB 설계</b></td>
     <td align="center"><b>메인화면 구현<br>DB 설계</b></td>
