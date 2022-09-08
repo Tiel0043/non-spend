@@ -162,7 +162,6 @@
   <tr>
     <td align="center"><a href="https://github.com/kimpizza" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/Tiel0043" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/uno719" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/jaegangkim" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/bingomangsoo" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/100geun10000" target='_blank'>github</a></td>
@@ -179,3 +178,12 @@ DB 설계를 해본 사람이 없다보니 이에 따른 의견충돌이 많았�
 * 프로젝트 통합 문제<br>
 모두들 Git의 중요성을 간과하고 각자 프로젝트 파일에서 개발을 했지만 이를 통합하는 상황에서 많은 어려움을 겪었다
 이를 토대로 gitlab을 통해 파일을 통합하기 시작하였고 무사히 프로젝트를 마칠 수 있었다.
+
+## 📖 느낀점
+* DB 및SQL 공부가 매우매우 중요하다는걸 느꼈다 내가 구현할 수 있을까? 라고 느낀 것들은 대부분 sql 쿼리문을 잘 한다면 금방 구현 할 수 있을 문제였다 sql을 잘 알고 있었다면<br>
+많은 시간을 아낄 수 있었으리라고 생각한다 또한 트러블 슈팅에서 db설계에서 굉장히 애를 먹었기에 이후엔 멘토링을 받지 않아도 잘 설계할 수 있게 성장해야 한다.
+* 커뮤니케이션의 중요성을 느꼈다. 프로젝트에 대해서 회의하고 주제를 잡고 막상 개발에 들어가면 팀원들 서로 생각하는 기능이 달랐다 이로 인해 회의를 다시하고 지연되는 <br>
+일이 빈번했기 때문에 꼭 프로젝트에 대해서 많이 이야기하고 이를 제대로 이해한 것인지 확인하는 시간이 필요하다고 느꼈다
+* 스피치 능력을 기르자 결국 다들 기능 구현에 대해서는 다들 비슷하다 결국 어떤 아이디어를 가지고 어떻게 우리의 결과물을 보여주는게 중요하다고 느꼈다 <br>
+그렇다고 개발이 뒷전이라는 것은 절대 아니다!!
+* 
