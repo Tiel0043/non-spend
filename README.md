@@ -127,29 +127,29 @@
 <table>
   <tr>
     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://han.gl/IlDDN" width="100" height="100"/></td>
     <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
     <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
 
   </tr>
   <tr>
     <td align="center"><strong>김유리</strong></td>
-    <td align="center"><strong>김윤호</strong></td>
-    <td align="center"><strong>백근만</strong></td>
+    <td align="center"><strong>김민우</strong></td>
     <td align="center"><strong>김재강</strong></td>
     <td align="center"><strong>박혜민</strong></td>
-    <td align="center"><strong>김민우</strong></td>
+    <td align="center"><strong>백근만</strong></td>
+    <td align="center"><strong>이윤호</strong></td>
 
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Backend</b></td>
     <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Backend</b></td>
 
   </tr>
     <tr>
@@ -178,4 +178,4 @@ DB 설계를 해본 사람이 없다보니 이에 따른 의견충돌이 많았�
  
 * 프로젝트 통합 문제<br>
 모두들 Git의 중요성을 간과하고 각자 프로젝트 파일에서 개발을 했지만 이를 통합하는 상황에서 많은 어려움을 겪었다
-이를 토대로 gitlab을 통해 파일을 통합하기 시작하였고 무사히 프로젝트를 마칠 수 
+이를 토대로 gitlab을 통해 파일을 통합하기 시작하였고 무사히 프로젝트를 마칠 수 있었다.
